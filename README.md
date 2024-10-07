@@ -1,4 +1,3 @@
 # Meri_kaksha
-This is my Git  Repository
-<br>
-Author - Jyoti Mishra
+This is a JavaScript file
+
